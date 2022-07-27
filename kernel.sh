@@ -148,5 +148,5 @@ compile() {
 clone
 compile
 set_naming
-#gen_zip
+gen_zip
 
